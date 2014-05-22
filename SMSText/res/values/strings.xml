@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SMS Text</string>
+    <string name="clear">Törlés</string>
+    <string name="send">Mehet</string>
+    <string name="settings">Beállítások</string>
+    <string name="swap_settings">Csere beállítások</string>
+    <string name="save">Kész</string>
+    <string name="add">Új</string>
+    <string name="arrow">-&gt;</string>
+    <string name="remove">-</string>
+    <string name="remove_alert">Biztosan törlöd?</string>
+    <string name="yes">Igen</string>
+    <string name="no">Nem</string>
+    <string name="ok">OK</string>
+    <string name="reset">Alap</string>
+    <string name="reset_msg">Visszaállítod az alaphelyzetet?</string>
+    <string name="pref_err_length">Egy-egy karaktert kell megadni!</string>
+    <string name="pref_err_duplicate">Ez a karakter többször van a listában!</string>
+    <string name="pref_trim_title">Trim</string>
+    <string name="pref_trim_sum">Levágja a fölösleget a szöveg elejéről és végéről</string>
+    <string name="pref_trim_def">true</string>
+
+</resources>

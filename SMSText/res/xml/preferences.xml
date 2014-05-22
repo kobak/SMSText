@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <CheckBoxPreference
+        android:key="pref_trim"
+        android:title="@string/pref_trim_title"
+        android:summary="@string/pref_trim_sum"
+        android:defaultValue="@string/pref_trim_def" />
+
+    <Preference
+        android:title="@string/swap_settings">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.yaniman.smstext"
+            android:targetClass="com.yaniman.smstext.SwapSettingsActivity" />
+    </Preference>
+
+</PreferenceScreen>
